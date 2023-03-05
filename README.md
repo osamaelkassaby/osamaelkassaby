@@ -29,4 +29,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joeel561&icon=6&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=osamaelkassaby&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
